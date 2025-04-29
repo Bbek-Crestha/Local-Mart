@@ -1,10 +1,10 @@
 # DevCart
 
-A full-stack eCommerce platform built with React.js, Node.js, Express, MongoDB, and Stripe API. Designed to replicate the features of major online retailers with a developer-focused twist.
+A full-stack eCommerce platform built with React.js, CSS, TypeScript, Node.js, Express, MongoDB, and Stripe API. Designed to replicate the features of major online retailers with a developer-focused twist.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo (Coming Soon)
 
 - **Live Demo**
 
@@ -12,7 +12,7 @@ A full-stack eCommerce platform built with React.js, Node.js, Express, MongoDB, 
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React.js, TailwindCSS
+- **Frontend:** React.js, CSS, TypeScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose)
 - **Payments:** Stripe API
